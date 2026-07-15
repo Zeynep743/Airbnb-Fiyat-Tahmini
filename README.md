@@ -33,10 +33,10 @@ Bu proje, İstanbul'daki Airbnb ilanlarının gecelik fiyatlarını makine öğr
 ## Ekran Görüntüleri
 
 ### 1. Konum Analizi ve Fiyat Tahmini
-![Gezgin Arayüzü](streamlit_arayuzu_1.png)
+![Gezgin Arayüzü](Streamlit_Arayüzü.jpeg)
 
 ### 2. Gezginler İçin Fırsat Evler
-![Fırsat Evler](streamlit_arayuzu_2.png)
+![Fırsat Evler](Streamlit_Arayüzü2.jpeg)
 
 ### 3. Yatırımcı & Ev Sahibi Analiz Paneli
 ![Ev Sahibi Paneli](streamlit_arayuzu_3.png)
